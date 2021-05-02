@@ -1,10 +1,10 @@
-#- 👋 Hi, I'm  Shoman [Live link](https://my-site-c7ca2.web.app) 👋
+### 👋 Hi I'm  Shoman [Live link](https://my-site-c7ca2.web.app) 👋
 
 [<img align="left" alt="Visual Studio Code" width="300px" src="https://i.ibb.co/d7TQj5X/my-logo.png" />](https://i.ibb.co/d7TQj5X/my-logo.png)
 
 <br/>
 
-##  I'm a Web Developer
+##  I'm a Web Developer 
 
  - 🔭  I love Programming.
  - 🌱  JavaScript is my Favorite programming Language. 
@@ -38,17 +38,3 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]("")
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]("")
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]("")
-
-
-
-
-- 👋 Hi, I’m @Shoman-28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Shoman-28/Shoman-28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
