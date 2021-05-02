@@ -1,4 +1,4 @@
-### Hi there, I'm  Shoman [Live link](https://my-site-c7ca2.web.app) 👋
+#- 👋 Hi, I'm  Shoman [Live link](https://my-site-c7ca2.web.app) 👋
 
 [<img align="left" alt="Visual Studio Code" width="300px" src="https://i.ibb.co/d7TQj5X/my-logo.png" />](https://i.ibb.co/d7TQj5X/my-logo.png)
 
